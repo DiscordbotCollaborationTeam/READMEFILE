@@ -35,3 +35,6 @@ AllBotFile:すべてのボットに関連するソースコードです。
 
 各ファイルに存在するLICENS.txtをご覧ください。
 
+## 仕様プログラミング言語
+
+Python\discord.py
