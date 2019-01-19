@@ -1,4 +1,4 @@
-## 計画表
+# 計画表
 
 1.GigaApplebotとT-takuのbotの連携
 
