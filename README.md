@@ -31,6 +31,8 @@ ShinaFile:北上 思惟奈の連携ソースコードをまとめたファイル
 
 AllBotFile:すべてのボットに関連するソースコードです。
 
+BotSitefile:ボット関連のサイト
+
 ## ソースコードLICENSE
 
 各ファイルに存在するLICENS.txtをご覧ください。
