@@ -6,7 +6,7 @@
 
 [apple502j](https://github.com/apple502j) [(GigaApplebot)](https://github.com/apple502j/GigaAppleBot)
 
-[T-taku](https://github.com/T-taku) [(TakuTukirou(月浪たく))](https://github.com/T-taku/New-Takubot/)
+[T-taku](https://github.com/T-taku) [(TakuTukirou(月浪たく))](https://github.com/T-taku/New-Takubot/) <== このソースコードでは稼働しません。
 
 [jun50](https://github.com/jun50) (佐藤真美)
 
@@ -39,4 +39,4 @@ BotSitefile:ボット関連のサイト
 
 ## プログラミング言語
 
-Python\discord.py
+Python\discord.py(rewrite)
